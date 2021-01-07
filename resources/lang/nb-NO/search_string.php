@@ -10,6 +10,7 @@ return [
         'billed_at'         => 'Fakturadato',
         'due_at'            => 'Forfallsdato',
         'invoiced_at'       => 'Fakturadato',
+        'issued_at'         => 'Utstedelsesdato',
     ],
 
 ];

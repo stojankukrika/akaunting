@@ -10,6 +10,7 @@ return [
         'billed_at'         => 'Data de factura',
         'due_at'            => 'Data de venciment',
         'invoiced_at'       => 'Data de factura',
+        'issued_at'         => 'Data de venciment',
     ],
 
 ];
